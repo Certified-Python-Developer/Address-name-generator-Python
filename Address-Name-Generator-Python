@@ -1,0 +1,11 @@
+a = str(input("What is your country: "));
+print("You are from",a);
+p = str(input("In Pakistan where are you from: "));
+print("you are from Pakistan and in Pakistan you are from", p);
+t = str(input(" where are you from in it "));
+print("You are: ")
+print (a+"i");
+print (p+"i");
+print (t+"i");
+    #This code is based on Python which gives you name according to your {country} For example if you are from india. In india you are from bengal and in bengal you are from delhi. The given names will be {Indian, bengali and delhian}. Thanks for giving importance and your auspicious time God give you a long lasting life
+print("Thanks for giving importance and your auspicious time God give you a long lasting life");
